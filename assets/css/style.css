@@ -159,6 +159,11 @@ h3, h2 {
   margin-top: 10px;
 }
 
+.giftastic {
+  height: 200px;
+  margin-top: 10px;
+}
+
 .work:nth-child(even) {
   margin-right: 40px;
 }
